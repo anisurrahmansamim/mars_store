@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088248469861",
+    "project_id": "mars-store",
+    "storage_bucket": "mars-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088248469861:android:f4c7a40ca640d9a02a298c",
+        "android_client_info": {
+          "package_name": "com.marscodeit.mars_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088248469861-s1vlaiij78mq28kend6eqco0s4ks59c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm-ROFrfaxWbfnF3Wjno3eykIdVnEJjP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088248469861-s1vlaiij78mq28kend6eqco0s4ks59c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
